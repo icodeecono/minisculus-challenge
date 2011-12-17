@@ -14,7 +14,7 @@ Feature: a quiz
         "key": "mission-complete", 
         "reference-url": "mission-complete.html",
         "code": "ABC123", 
-        "email": "minisculus@edendevelopment.co.uk"
+        "email": "minisculus@minisculuschallenge.com"
       }
       """
 
@@ -132,7 +132,7 @@ Feature: a quiz
       """
       {
         "code": "ABC123",
-        "email": "minisculus@edendevelopment.co.uk",
+        "email": "minisculus@minisculuschallenge.com",
         "reference-url": "/finish/mission-complete.html"
       }
       """
