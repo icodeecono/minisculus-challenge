@@ -43,6 +43,15 @@ p, li, span, a, a:hover, a:link, a:visited {
 	font-size: .8em;
 }
 
+.subtext {
+	font-size: .8em;
+	color: #AAAAAA;
+}
+
+.subtext p, .subtext a, .subtext a:hover, .subtext a:link, .subtext a:visited {
+	color: #AAAAAA;
+}
+
 .footer {
 	font-size: .8em;
 	margin-top: 3em;
