@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby "2.6.3"
 
-gem 'sinatra', '1.0'
+gem 'sinatra', '2.0.0.beta2'
 gem 'json'
 gem 'unicorn'
 
