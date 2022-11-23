@@ -7,7 +7,7 @@ The challenge required a simple JSON rest api and some accompanying web pages.
 
 New version is a quick port into next.js to get off Heroku. Some fancy routing is done in the middleware.tsx file to match the original challenge routing.
 
-## Getting Started
+## Getting Started - running locally
 
 First, run the development server:
 
