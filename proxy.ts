@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import data from "./data/questions.json";
 
-export const middleware = async (req: NextRequest) => {
+export const proxy = async (req: NextRequest) => {
   const { pathname } = req.nextUrl;
   const url = req.nextUrl.clone();
 
